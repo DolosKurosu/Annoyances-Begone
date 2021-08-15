@@ -1,0 +1,19 @@
+{
+  "name": "mod",
+  "version": "0.0.1",
+  "description": "A mod for The Binding of Isaac: Afterbirth+",
+  "keywords": [
+    "isaac",
+    "mod",
+    "rebirth",
+    "afterbirth",
+    "repentance"
+  ],
+  "license": "GPL-3.0",
+  "dependencies": {
+    "isaac-typescript-definitions": "^1.0.120",
+    "isaacscript": "^1.1.9",
+    "isaacscript-common": "^1.0.162",
+    "isaacscript-lint": "^1.0.51"
+  }
+}
