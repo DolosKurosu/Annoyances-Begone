@@ -1,7 +1,7 @@
 /* eslint-disable prefer-const */
 import { ModCallbacksCustom, upgradeMod } from "isaacscript-common";
 
-const mod = RegisterMod("Dolos' Balance Pack", 1);
+const mod = RegisterMod("Annoyances Begone", 1);
 const modUpgraded = upgradeMod(mod);
 
 const game = Game();
